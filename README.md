@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Romina Barzamini
 
-I'm a Front-End Developer with 4+ years of experience building scalable, accessible, and high-performance web applications.  
+I'm a Front-End Developer with 5+ years of experience building scalable, accessible, and high-performance web applications.  
 I specialize in creating modern, responsive interfaces using React, TypeScript, and Tailwind CSS, and I have also worked on .NET-based full-stack solutions.
 
 ---
