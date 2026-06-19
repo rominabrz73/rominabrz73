@@ -1,36 +1,51 @@
-# 👋 Hi, I’m Romina Barzamini
+# 👋 Hi, I'm Romina Barzamini
 
-I'm a Front-End Developer with 5+ years of experience building scalable, accessible, and high-performance web applications.  
-I specialize in creating modern, responsive interfaces using React, TypeScript, and Tailwind CSS, and I have also worked as full-stack.
+I'm a Software Engineer and Applied AI Researcher with experience in Front-End Development, Machine Learning, and Intelligent Systems.
 
----
+My background combines software engineering, modern web development, data analytics, and AI-driven solutions. I enjoy building scalable applications and intelligent systems that transform data into meaningful insights and real-world impact.
 
-### 💼 What I Do:
-- Build clean and reusable component libraries using React and TypeScript
-- Optimize frontend performance with lazy loading and code splitting
-- Collaborate closely with design and backend teams to deliver seamless UI/UX
-- Ensure accessibility and cross-browser compatibility based on WCAG standards
-- Integrate RESTful APIs and handle state with Redux/React Query
+## 🚀 What I Work On
 
----
+- Artificial Intelligence & Machine Learning
+- Agentic AI and LLM Applications
+- Data Science and Predictive Analytics
+- Software Engineering and System Design
+- Front-End Development with React and TypeScript
+- Full-Stack Application Development
 
-### 🔧 Tech Stack
-React · TypeScript · Redux · Tailwind CSS · Styled Components · HTML5 · CSS3 · JavaScript · .NET · C# · SQL Server · REST API · Git · Agile (Scrum)
+## 🔬 Research Interests
 
----
+- Agentic AI & Autonomous Systems
+- Large Language Models (LLMs)
+- Retrieval-Augmented Generation (RAG)
+- Knowledge Graphs & Semantic Search
+- Explainable and Responsible AI
+- Intelligent Decision Support Systems
 
-### 🌍 About Me
-- Based in Northampton, UK 🇬🇧  
-- Currently seeking a mid-level or senior Front-End / Full-Stack Developer role  
-- Open to hybrid or remote work opportunities  
+## 🛠 Technical Skills
 
+**Software Development**
+React · TypeScript · JavaScript · Redux · Tailwind CSS · HTML5 · CSS3 · C# · .NET · SQL · REST APIs
 
----
+**AI & Data**
+Python · Machine Learning · Predictive Modelling · Data Analysis · Statistical Modelling · XGBoost · Random Forest
 
-### 📌 Featured Projects
-👉 Check the pinned repositories below to see my work on UI design systems, dashboards, and dynamic interfaces.
+**Tools & Platforms**
+Git · Docker · AWS · Agile (Scrum)
 
----
+## 📚 Research & Publications
+
+Author and co-author of peer-reviewed publications in Machine Learning, Intelligent Optimisation, Statistical Analysis, and AI-driven predictive modelling.
+
+## 🌍 About Me
+
+📍 Based in the United Kingdom
+
+🎓 MSc Software Engineering
+
+💡 Passionate about combining Software Engineering, Front-End Development, Data Science, and AI to build intelligent solutions for real-world challenges.
+
+📌 Explore my pinned repositories to see my work in AI, machine learning, software engineering, and modern web development.
 
 ### 📫 Let’s Connect
 - [LinkedIn](https://www.linkedin.com/in/rominabarzamini)   
