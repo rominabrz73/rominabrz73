@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Romina Barzamini
 
-I'm a Software Engineer and Applied AI Researcher with experience in Front-End Development, Machine Learning, and Intelligent Systems.
+I'm a Software Engineer and Applied AI Researcher with experience in Front-End Development, Machine Learning, Intelligent Systems and Software Testing & Test Automation (Playwright, TypeScript, API Testing).
 
 My background combines software engineering, modern web development, data analytics, and AI-driven solutions. I enjoy building scalable applications and intelligent systems that transform data into meaningful insights and real-world impact.
 
@@ -12,7 +12,7 @@ My background combines software engineering, modern web development, data analyt
 - Software Engineering and System Design
 - Front-End Development with React and TypeScript
 - Full-Stack Application Development
-
+- Software Testing & Test Automation (Playwright, TypeScript, API Testing)
 ## 🔬 Research Interests
 
 - Agentic AI & Autonomous Systems
